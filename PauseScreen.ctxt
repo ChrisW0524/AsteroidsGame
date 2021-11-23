@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=PauseScreen
+comment0.text=\n\ Write\ a\ description\ of\ class\ PauseScreen\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=gameWorld
+comment1.target=PauseScreen(GameWorld)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ PauseScreen.\n\ <p>\n\ Initializes\ pause\ screen\ with\ UI\ elements\ and\ background\ transparency</p>\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\n\ <p>\n\ Controls\ transparency\ animations</br>\n\ Manages\ button\ functions</p>\n
+numComments=3

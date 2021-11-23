@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Meteorite
+comment0.text=\n\ Write\ a\ description\ of\ class\ Meteorite\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=size\ spawnEdge
+comment1.target=Meteorite(int,\ boolean)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Meteorite.\n\ @param\ size\ size\ of\ the\ meteorite\n\ @param\ spawnEdge\ boolean\ of\ whether\ the\ meteorite\ is\ spawned\ at\ the\ worldEdge\n\ <p>\n\ Constructor\ initializes\ class\ variables\ and\ the\ image\ of\ the\ meteorite\ class\ based\ on\ its\ size\n\ </p>\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\n\ <p>Spawns\ the\ meteorite\ on\ the\ world\ edge\ if\ spawnEdge\ is\ true</br>\n\ Moves\ and\ rotates\ the\ meteorite\ in\ the\ world</p>\n
+comment3.params=scale
+comment3.target=void\ resize(int)
+comment3.text=\n\ Resizes\ the\ image\ of\ the\ meteorite\ based\ on\ scale\ out\ of\ 100\n\ @param\ scale\ scale\ of\ the\ image\ in\ a\ 100\ point\ scale\n
+comment4.params=
+comment4.target=void\ spawnNewMeteorite()
+comment4.text=\n\ Spawns\ 2\ smaller\ meteorites\ in\ place\ of\ the\ meteorite\ object\n\ <p>\n\ If\ the\ meteorite\ is\ not\ the\ smallest\ size\ meteorite,\ the\ method\ will\ spawn\ 2\ smaller\ meteorites</br>\n\ Update\ the\ number\ of\ meteorites\ (static\ variable)\ in\ GameWorld</p>\n
+numComments=5

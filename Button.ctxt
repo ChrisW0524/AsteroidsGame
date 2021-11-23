@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Button
+comment0.text=\n\ Base\ class\ of\ all\ buttons\n
+comment1.params=mouseNotOver\ mouseOver\ scale
+comment1.target=Button(java.lang.String,\ java.lang.String,\ int)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Button.\n\ @param\ mouseNotOver\ path\ to\ image\ of\ button\ when\ mouse\ is\ not\ hovering\ over\n\ @param\ mouseOver\ path\ to\ image\ of\ button\ when\ mouse\ is\ hovering\ over\n\ @param\ scale\ scale\ of\ the\ original\ sprites\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\n\ <p>Set\ the\ image\ to\ mouseOver\ if\ mouse\ is\ hovering\ over\ button</br>\n\ Set\ the\ image\ to\ mouseNotOver\ if\ mouse\ is\ not\ hovering\ over\ button</p>\n
+comment3.params=
+comment3.target=boolean\ isMouseOver()
+comment3.text=\n\ Returns\ true\ if\ mouse\ is\ hovering\ over\ button\ object\n
+comment4.params=
+comment4.target=void\ action()
+comment4.text=\n\ Action\ of\ button\ if\ button\ is\ clicked\n
+comment5.params=
+comment5.target=void\ resizeImages()
+comment5.text=\n\ Resize\ image\ based\ on\ scale\ \n
+comment6.params=transparency
+comment6.target=void\ setButtonTransparency(int)
+comment6.text=\n\ Set\ transparency\ of\ the\ button\ object\n
+numComments=7

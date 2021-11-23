@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Projectile
+comment0.text=\n\ Projeciles\ shot\ by\ the\ player\n
+comment1.params=
+comment1.target=Projectile()
+comment1.text=\n\ Initializes\ projectile\ with\ no\ offset\n
+comment2.params=offset
+comment2.target=Projectile(int)
+comment2.text=\n\ Initializes\ projectile\ with\ a\ given\ angle\ offset\n\ @param\ offset\ The\ offset\ of\ the\ angle's\ direction\ in\ degrees\n
+comment3.params=
+comment3.target=void\ act()
+comment3.text=\n\ <p>\n\ Set\ direction\ to\ be\ relative\ to\ the\ player\ whilst\ including\ offset</br>\n\ Destroys\ meteorites\ if\ projectile\ collides\ with\ a\ meteorite\ object</br>\n\ Remove\ the\ projecile\ from\ the\ world\ if\ the\ timer\ expires\ or\ projecilte\ hits\ the\ edge</br>\n\ Move\ the\ projectile\n
+numComments=4

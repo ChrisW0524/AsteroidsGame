@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Text
+comment0.text=\n\ Text\ class\n
+comment1.params=text\ font\ x\ y
+comment1.target=Text(java.lang.String,\ greenfoot.Font,\ int,\ int)
+comment1.text=\n\ Initializes\ Text\ with\ a\ font\ and\ (x,y)\ coordinates\n\ @param\ text\ The\ string\ of\ the\ text\ object\n\ @param\ font\ The\ font\ of\ the\ text\n\ @param\ x\ X\ coordinate\ of\ bottom\ left\ corner\ of\ the\ text\n\ @param\ y\ Y\ coordinate\ of\ bottom\ left\ corner\ of\ the\ text\n
+comment2.params=text
+comment2.target=void\ setText(java.lang.String)
+comment2.text=\n\ Sets\ the\ string\ of\ the\ text\ object\n
+numComments=3

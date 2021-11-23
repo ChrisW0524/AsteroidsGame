@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=WorldMenu
+comment0.text=\n\ Write\ a\ description\ of\ class\ WorldMenu\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=x\ y\ i
+comment1.target=WorldMenu(int,\ int,\ int)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ WorldMenu.\n\ @param\ x\ width\ of\ world\n\ @param\ y\ height\ of\ world\n\ @param\ i\ pixel\ resolution\ of\ world\n
+comment2.params=difficulty
+comment2.target=void\ spawnMeteorites(int)
+comment2.text=\n\ Spawn\ meteorites\ in\ the\ world\n\ @param\ difficulty\ the\ total\ number\ of\ small\ meteorites\ spawned\n\ <p>\n\ Method\ spawns\ a\ random\ \ combination\ of\ different\ sizes\ of\ meteorites\ in\ the\ world\ based\ on\ the\ total\ number\ of\ small\ meteorites\ in\ the\ parameter</br>\n\ Large\ meteorite\ \=\ 8\ small\ meteorites</br>\n\ Big\ meteorite\ \=\ 4\ small\ meteorites</br>\n\ Medium\ meteorite\ \=\ 2\ small\ meteorites\ </br>\n\ Small\ meteorite\ \=\ 1\ small\ meteorites\n\ </p>\n
+comment3.params=minimum\ maximum
+comment3.target=int\ getRandomNumber(int,\ int)
+comment3.text=\n\ Returns\ a\ random\ number\ based\ on\ the\ range\n\ Spawn\ meteorites\ in\ the\ world\n\ @param\ minimum\ the\ minimum\ range\ of\ random\ numbers\n\ @param\ maximum\ the\ maximum\ range\ of\ random\ numbers\n\ \n\ <p>\n\ Method\ returns\ a\ random\ interger\ in\ the\ minimum\ and\ maximum\ range</br>\n\ \n\ </p>\n
+numComments=4

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=StartScreen
+comment0.text=\n\ Write\ a\ description\ of\ class\ StartScreej\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=StartScreen()
+comment1.text=\n\ Initialize\ start\ screen\ with\ title\ and\ play\ button\n\ <p>\n\ The\ meteorites\ spawned\ in\ the\ background\ is\ purely\ for\ visuals\n\ </p>\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\n\ Handles\ transparency\ animations\ and\ UI\ elements\n
+numComments=3

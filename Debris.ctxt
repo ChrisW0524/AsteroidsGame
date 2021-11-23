@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Debris
+comment0.text=\n\ Debris\ particles\ for\ the\ destruction\ of\ meteorites\n
+comment1.params=
+comment1.target=Debris()
+comment1.text=\n\ Initializes\ particle\ image\ and\ sets\ a\ random\ direction\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\n\ Move\ and\ shrink\ the\ particle\ \n
+numComments=3

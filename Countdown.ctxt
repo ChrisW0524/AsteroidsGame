@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Countdown
+comment0.text=\n\ Countdown\ animation\ when\ starting\ the\ game\n
+comment1.params=
+comment1.target=Countdown()
+comment1.text=\n\ Initializes\ the\ image\ of\ the\ countdown\ object\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\n\ <p>Sets\ the\ image\ of\ the\ countdown\ based\ on\ the\ object's\ counter</br>\n\ Updates\ counter\ for\ every\ gametick\ of\ the\ world\ </br>\n\ Removes\ object\ if\ countdown\ is\ completed</p>\n
+comment3.params=
+comment3.target=boolean\ getAnimationEnded()
+comment3.text=\n\ Returns\ true\ if\ the\ countdown\ has\ ended\n
+numComments=4

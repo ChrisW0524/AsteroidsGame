@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=WaveText
+comment0.text=\n\ Text\ used\ to\ display\ current\ wave\ of\ the\ Game\n
+comment1.params=text\ font\ x\ y\ counter
+comment1.target=WaveText(java.lang.String,\ greenfoot.Font,\ int,\ int,\ int)
+comment1.text=\n\ Initializes\ a\ waveText\ with\ a\ font,\ (x,y)\ coordinates,\ and\ time\n\ @param\ text\ The\ string\ of\ the\ text\ object\n\ @param\ font\ The\ font\ of\ the\ text\n\ @param\ x\ X\ coordinate\ of\ bottom\ left\ corner\ of\ the\ text\n\ @param\ y\ Y\ coordinate\ of\ bottom\ left\ corner\ of\ the\ text\n\ @param\ counter\ How\ long\ the\ text\ will\ stay\ in\ the\ world\ in\ game\ ticks\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\n\ Handles\ the\ transparency\ of\ the\ text\ object\n\ <p>\n\ If\ the\ image\ is\ not\ fully\ opaque,\ the\ transparency\ will\ increase</br>\n\ If\ the\ image\ is\ fully\ opaque,\ The\ counter\ will\ decrease</br>\n\ If\ the\ counter\ is\ expired,\ decrease\ transparency\ </br>\n\ \n
+numComments=3

@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Overlay
+comment0.text=\n\ Write\ a\ description\ of\ class\ Overlay\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=Overlay()
+comment2.params=transparency
+comment2.target=Overlay(int)
+comment3.params=
+comment3.target=void\ act()
+comment4.params=transparency
+comment4.target=void\ setTransparency(int)
+numComments=5

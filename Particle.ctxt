@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Particle
+comment0.text=\n\ Base\ class\ for\ particles\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=percentage
+comment1.target=void\ shrink(int)
+comment1.text=\n\ Shrinks\ the\ particle\ by\ a\ percentage\ of\ its\ size\n\ @param\ percentage\ The\ percentage\ of\ the\ size\ of\ the\ scaled\ particle\ in\ relation\ to\ its\ original\ size.\n
+numComments=2

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Rocket
+comment0.text=\n\ Playeer\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\n\ <p>\n\ Manage\ keyboard\ inputs</br>\n\ Implements\ Player\ movement\ (turns\ left\ and\ right,\ boost\ to\ increase\ speed\ and\ turning\ rate)</br>\n\ Adds\ shooting\ function\ (press\ x\ to\ shoot\ bullets)</br>\n\ Controls\ collision\ with\ meteorite</br>\n\ Powerup\ logic\ (machine\ gun\ \=\ increase\ firerate,\ scatter\ shot\ \=\ fire\ multiple\ projectiles)</br>\n\ Update\ powerup\ bar\ information\n
+comment2.params=
+comment2.target=void\ resetRocket()
+numComments=3

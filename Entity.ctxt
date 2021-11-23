@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Entity
+comment0.text=\n\ Base\ class\ for\ all\ entities\n
+comment1.params=minimum\ maximum
+comment1.target=int\ getRandomNumber(int,\ int)
+comment1.text=\n\ Returns\ a\ random\ number\ based\ on\ the\ range\n\ @param\ minimum\ the\ minimum\ range\ of\ random\ numbers\n\ @param\ maximum\ the\ maximum\ range\ of\ random\ numbers\n\ \n\ <p>\n\ Method\ returns\ a\ random\ interger\ in\ the\ minimum\ and\ maximum\ range</br>\n\ \n\ </p>\n
+comment2.params=
+comment2.target=void\ edgeMovement()
+comment2.text=\n\ If\ entity\ is\ at\ the\ edge\ of\ the\ world,\ move\ entity\ to\ the\ opposite\ edge.\n
+comment3.params=
+comment3.target=boolean\ atEdge()
+comment3.text=\n\ Returns\ true\ if\ entity\ is\ at\ world\ edge\n
+comment4.params=degrees\ speed
+comment4.target=void\ moveDirection(int,\ int)
+comment4.text=\n\ Moves\ entity\ in\ a\ direction\ at\ a\ speed\n\ @param\ degrees\ the\ direction\ of\ the\ velocity\ vector\ in\ degrees\n\ @param\ speed\ the\ magnitude\ of\ the\ velocity\ vector\n
+comment5.params=rotation
+comment5.target=void\ rotate(int)
+comment5.text=\n\ Rotate\ entity\ by\ a\ set\ amount\n\ @param\ rotation\ how\ much\ the\ entity\ is\ rotated\ in\ degrees\n
+numComments=6

@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=GameWorld
+comment0.text=\n\ World\ where\ gameplay\ takes\ place\n
+comment1.params=
+comment1.target=GameWorld()
+comment1.text=\n\ <p>\n\ Initializes\ GameWorld\ with\ text,\ UI,\ indicators,\ and\ player</br>\n\ Handles\ transparency\ transition\ and\ UI\n\ </p>\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\n\ <p>\n\ Handles\ the\ transparency\ and\ UI\ logic</br>\n\ Spawns\ more\ meteorites\ when\ all\ meteorites\ are\ destroyed\ </br>\n\ Updates\ difficulty\ and\ wave\ counter\ </br>\n\ Manages\ UI\ elements\n\ </p>\n
+comment3.params=
+comment3.target=void\ waveTransition()
+comment4.params=
+comment4.target=void\ resetWorld()
+comment5.params=
+comment5.target=void\ initBar()
+numComments=6

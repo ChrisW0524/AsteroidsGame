@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Powerup
+comment0.text=\n\ Powerup\ class\n
+comment1.params=
+comment1.target=Powerup()
+comment1.text=\n\ Initializes\ powerup\ with\ a\ random\ speed,\ direction\ and\ spin\n
+comment2.params=w
+comment2.target=void\ addedToWorld(greenfoot.World)
+comment2.text=\n\ Spawns\ the\ powerup\ on\ the\ world\ edge\ when\ added\ to\ world\n
+comment3.params=
+comment3.target=void\ act()
+comment3.text=\n\ Move\ and\ rotate\ the\ powerup\n
+numComments=4

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Smoke
+comment0.text=\n\ Smoke\ particles\ for\ the\ player\n
+comment1.params=
+comment1.target=Smoke()
+comment1.text=\n\ Initializes\ and\ scale\ smoke\ image\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\n\ <p>\n\ Set\ a\ random\ direction\ relative\ to\ the\ player's\ direction</br>\n\ Move\ and\ shrink\ the\ particles\n
+numComments=3
